@@ -30,7 +30,7 @@
 - 文章中代码引用```后需要标记语言（可使用的标记如csharp，ts，js，xml，json等）
 
 <!--
-**icodecake/icodecake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ivibecoding/ivibecoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

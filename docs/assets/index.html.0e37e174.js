@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as n,a as c}from"./app.f20c6224.js";const o={},s=c("p",null,"https://zhuanlan.zhihu.com/p/87053283",-1),_=[s];function a(l,r){return t(),n("div",null,_)}const d=e(o,[["render",a],["__file","index.html.vue"]]);export{d as default};
