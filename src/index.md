@@ -2,7 +2,7 @@
 pageClass: home-page-class
 home: true
 heroImage: /images/logo.png
-heroText: Code Cake
+heroText: Vibe Coding
 tagline: 代码分享
 actions:
   - text: 快速开始
@@ -18,5 +18,5 @@ features:
     details: Web 是一个简要的系列，向你介绍 web 开发的实用性。包括超文本标记语言（HTML）、层叠样式表（CSS）、JavaScript（或TypeScript）和常见的Web框架。
   - title: DB
     details: 数据库是结构化信息或数据的有序集合，一般以电子形式存储在计算机系统中。主要包括常见的数据库使用与高性能的SQL语句。
-footer: Copyright © 2022-present Code Cake
+footer: Copyright © 2022-present Vibe Coding
 ---

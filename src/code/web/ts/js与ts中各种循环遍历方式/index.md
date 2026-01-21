@@ -1,4 +1,4 @@
-# js 与 ts 中各种循环遍历方式：for...in，for…of，forEach()，filter()，map()，every()，some() ，reduce()，reduceRight()之间的区别
+# js 与 ts 中各种循环遍历方式
 
 ### 1. for…in 、for…of
 
