@@ -1,4 +1,4 @@
-# dependencies
+node_modules
 /node_modules
 /src/.vuepress/.temp
 /src/.vuepress/.cache
