@@ -12,13 +12,14 @@
 import { viteBundler } from "@vuepress/bundler-vite";
 import { defineUserConfig } from "vuepress";
 import { plumeTheme } from "vuepress-theme-plume";
+import path from 'path'
 
 export default defineUserConfig({
   base: "/",
   lang: "zh-CN",
   title: "Vibe Coding",
   description: "记录灵感，表达态度",
-  
+
   head: [
     // 配置站点图标
     [
@@ -26,12 +27,13 @@ export default defineUserConfig({
       {
         rel: "icon",
         type: "image/png",
-        href: "https://foruda.gitee.com/avatar/1769134388021798884/11793751_ivibecoding_1769134387.png",        
+        href: "https://foruda.gitee.com/avatar/1769134388021798884/11793751_ivibecoding_1769134387.png",
       },
     ],
   ],
   port: 3000,
-  bundler: viteBundler(),
+  dest: path.resolve(__dirname, '../../docs'),
+  bundler: viteBundler({}),
   shouldPrefetch: false, // 站点较大，页面数量较多时，不建议启用
 
   theme: plumeTheme({

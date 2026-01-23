@@ -1,11 +1,11 @@
 ---
 title: 常用的高级类型
 createTime: 2026/01/23 12:35:12
-permalink: /docs/qhp7g8wi/
+permalink: /docs/qhp7g8w1/
 ---
 
-#### 1）、Partial<Type>
-》Partial<T> 可以快速把某个接口类型中定义的属性变成可选的
+## `Partial<Type>`
+`Partial<T> `可以快速把某个接口类型中定义的属性变成可选的
 源代码
 ```
 type Partial<T> = {
@@ -40,8 +40,8 @@ type optional = {
 type IMaterialVarLength = Partial<IStimuliInputKey<number>>;
 ```
 
-#### 2)、Required<Type>
-》和Partial刚好相反，将一个定义中的属性全部变成必选参数.让一个类型的属性全部必填
+## `Required<Type>`
+和Partial刚好相反，将一个定义中的属性全部变成必选参数.让一个类型的属性全部必填
 源代码
 
 ```
@@ -72,7 +72,7 @@ interface IExtraProps {
 	}
 ```
 
-3）、Readonly<Type>
+## `Readonly<Type>`
 如果要求对象中的一些字段只能在创建的时候被赋值，使用 readonly 定义只读属性。(只读的约束存在于第一次给对象赋值的时候，而不是第一次给只读属性赋值的时候)
 源代码
 
@@ -99,8 +99,8 @@ readonly inputConfig: Readonly<TInputConfig>;
 readonly value: Readonly<TValue>;
 ```
 
-4)、Record<Keys, Type>()
-》 Record<K,T>具有给定类型T的一组属性K的类型。在将一个类型的属性映射到另一个类型的属性时，Record非常方便。
+## `Record<Keys, Type>()`
+`Record<K,T>`具有给定类型T的一组属性K的类型。在将一个类型的属性映射到另一个类型的属性时，Record非常方便。
 [相关解释](https://zhuanlan.zhihu.com/p/356662885)
 源代码
 
@@ -158,7 +158,7 @@ export type IInputPropPreset = {
 };
 // * 执行Partial里面的参数 都是不必填内容
 ```
-5）、Pick<Type, Keys> (部分选择)
+## `Pick<Type, Keys>` (部分选择)
 》可能需要从一个已声明的类型中抽取出一个子类型，在子类型中包含父类型中的部分或全部属性，这时我们可以使用Pick来实现，
 源代码
 
@@ -204,7 +204,7 @@ export interface IMultiLevelInputSetting {
 }
 ```
 
-6)、Omit<Type, Keys>（属性忽略） 
+## `Omit<Type, Keys>`（属性忽略） 
 与Pick相反，Pick用于拣选出我们需要关心的属性，而Omit用于忽略掉我们不需要关心的属性
 
 举例
@@ -240,8 +240,8 @@ type OmitUser = {
 条件类型
 (参考地址)[https://blog.csdn.net/diecuoxie4468/article/details/102360892?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-102360892-blog-104111165.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-102360892-blog-104111165.pc_relevant_antiscanv2&utm_relevant_index=2]
 
-7）、Exclude<UnionType, ExcludedMembers>
-》一个类型从另一个类型中剔除部分属性key
+## `Exclude<UnionType, ExcludedMembers>`
+一个类型从另一个类型中剔除部分属性key
 源码
 ```
 type Exclude<T, U> = T extends U ? never : T;
@@ -283,8 +283,9 @@ export function noNull<T>(v: T | null): v is Exclude<T, null> {
 }
 ```
 
-8）、Extract<Type, Union>
-》Extract 的功能，与 Exclude 相反，它是 提取 T 中可以赋值给 U 的类型。
+## `Extract<Type, Union>`
+Extract 的功能，与 Exclude 相反，它是 提取 T 中可以赋值给 U 的类型
+
 源码
 
 ```
@@ -300,8 +301,9 @@ type T1 = () => void
 ```
 
 项目实战暂无
-9)、NonNullable<Type>非空
-》类型中排除 null 和 undefined
+## `NonNullable<Type>`
+非空类型中排除 null 和 undefined
+
 举例：
 ```
 type T04 = NonNullable<string | number | undefined>;  // string | number
@@ -317,8 +319,8 @@ export function notNullish<T>(v: T | null | undefined): v is NonNullable<T> {
 }
 ```
 
-10)、ReturnType（函数返回值类型） 
-》ReturnType<T>的作用是用于获取函数 T 的返回类型。  
+## `ReturnType`（函数返回值类型） 
+`ReturnType<T>`的作用是用于获取函数 T 的返回类型。  
 
 ```
 declare function f1(): { a: number; b: string };
@@ -344,8 +346,10 @@ type T4 = {
 ```
 
 项目实战无
-11)、Parameters（函数参数类型）
-》Parameters的作用是用于获取函数 T 的参数类型
+
+## `Parameters`（函数参数类型）
+Parameters的作用是用于获取函数 T 的参数类型
+
 举例
 
 ```
