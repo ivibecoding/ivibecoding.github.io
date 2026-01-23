@@ -1,7 +1,7 @@
 ---
 title: Unit Testing Best Practices | 单元测试指南
 createTime: 2026/01/23 14:12:34
-permalink: /docs/uk617veo/
+permalink: /docs/csharp/nleqajtc/
 ---
 
 ## Why unit test | 为何要做单元测试

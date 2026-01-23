@@ -1,7 +1,7 @@
 ---
 title: CSharp 8.0 新特性
 createTime: 2026/01/23 14:20:44
-permalink: /docs/haig2opb/
+permalink: /docs/csharp/0mcjw7u3/
 ---
 
 ## 新特性

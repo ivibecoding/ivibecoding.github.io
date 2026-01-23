@@ -1,7 +1,7 @@
 ---
 title: Win10 aux,com1~com9,prn,con,nul文件命名无效
 createTime: 2026/01/23 14:23:18
-permalink: /docs/p5p2vv44/
+permalink: /docs/csharp/4bbip10g/
 ---
 
 在Windows系统中，以Win10为例，有时会发现将一些文件进行重命名的时候会出现“指定的设备名无效”的情况

@@ -1,7 +1,7 @@
 ---
 title: 如何避免内存泄漏
 createTime: 2026/01/23 11:35:32
-permalink: /docs/8c29lgd1/
+permalink: /docs/dotnet/l3e47jgx/
 ---
 
 # 什么是GC

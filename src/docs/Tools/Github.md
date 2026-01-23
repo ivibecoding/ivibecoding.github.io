@@ -1,7 +1,7 @@
 ---
 title: Github
 createTime: 2026/01/23 11:53:13
-permalink: /docs/1fegokot/
+permalink: /docs/tools/90fmss0j/
 ---
 
 ## 原来 GitHub 不光能学代码，还有这些

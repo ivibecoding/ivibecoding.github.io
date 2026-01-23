@@ -44,20 +44,68 @@ const blog = defineCollection({
   //   pagination: 15, // 每页显示文章数量
 })
 
-const doc = defineCollection({
-  // doc 类型，该类型带有侧边栏
+// const doc = defineCollection({
+//   // doc 类型，该类型带有侧边栏
+//   type: 'doc',
+//   // 文档集合所在目录，相对于 `docs`
+//   dir: 'DB',
+//   // `dir` 所指向的目录中的所有 markdown 文件，其 permalink 需要以 `linkPrefix` 配置作为前缀
+//   // 如果 前缀不一致，则无法生成侧边栏。
+//   // 所以请确保  markdown 文件的 permalink 都以 `linkPrefix` 开头
+//   linkPrefix: '/DB/',
+//   // 文档标题，它将用于在页面的面包屑导航中显示
+//   title: 'Doc',
+//   // 手动配置侧边栏结构
+//   // sidebar: ['', 'foo', 'bar'],
+//   // 根据文件结构自动生成侧边栏
+//   sidebar: 'auto',
+// })
+
+const webDoc = defineCollection({
   type: 'doc',
-  // 文档集合所在目录，相对于 `docs`
-  dir: 'docs',
-  // `dir` 所指向的目录中的所有 markdown 文件，其 permalink 需要以 `linkPrefix` 配置作为前缀
-  // 如果 前缀不一致，则无法生成侧边栏。
-  // 所以请确保  markdown 文件的 permalink 都以 `linkPrefix` 开头
-  linkPrefix: '',
-  // 文档标题，它将用于在页面的面包屑导航中显示
-  title: 'Doc',
-  // 手动配置侧边栏结构
-  // sidebar: ['', 'foo', 'bar', 'Wpf UI Layout'],
-  // 根据文件结构自动生成侧边栏
+  dir: '/docs/web',
+  linkPrefix: '/docs/web/',
+  title: 'Web 技术',
+  sidebar: 'auto',
+})
+
+const dbDoc = defineCollection({
+  type: 'doc',
+  dir: '/docs/database',
+  linkPrefix: '/docs/database/',
+  title: '数据库',
+  sidebar: 'auto',
+})
+
+const toolsDoc = defineCollection({
+  type: 'doc',
+  dir: '/docs/tools/',
+  linkPrefix: '/docs/tools/',
+  title: '工具',
+  sidebar: 'auto',
+})
+
+const wpfDoc = defineCollection({
+  type: 'doc',
+  dir: '/docs/wpf',
+  linkPrefix: '/docs/wpf/',
+  title: 'Wpf',
+  sidebar: 'auto',
+})
+
+const dotnetDoc = defineCollection({
+  type: 'doc',
+  dir: '/docs/dotnet',
+  linkPrefix: '/docs/dotnet/',
+  title: '.NET',
+  sidebar: 'auto',
+})
+
+const csharpDoc = defineCollection({
+  type: 'doc',
+  dir: '/docs/csharp',
+  linkPrefix: '/docs/csharp/',
+  title: 'CSharp',
   sidebar: 'auto',
 })
 
@@ -68,5 +116,10 @@ const doc = defineCollection({
  */
 export default defineCollections([
   blog,
-  doc
+  dbDoc,
+  webDoc,
+  toolsDoc,
+  wpfDoc,
+  dotnetDoc,
+  csharpDoc
 ])

@@ -1,7 +1,7 @@
 ---
 title: BackgroundWorker
 createTime: 2026/01/23 14:42:57
-permalink: /docs/54npxglp/
+permalink: /docs/csharp/he0iz18h/
 ---
 
 BackgroundWorker 类允许您在单独的线程上执行某个可能导致用户界面（UI）停止响应的耗时操作（比如文件下载数据库事务等），并且想要一个响应式的 UI 来反应当前耗时操作的进度。

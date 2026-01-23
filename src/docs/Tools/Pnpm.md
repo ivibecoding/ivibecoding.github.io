@@ -1,7 +1,7 @@
 ---
 title: pnpm
 createTime: 2026/01/23 11:53:54
-permalink: /docs/ylkpmwm0/
+permalink: /docs/tools/ic3ag8ep/
 ---
 
 # pnpm

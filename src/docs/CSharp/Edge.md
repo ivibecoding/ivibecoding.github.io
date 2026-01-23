@@ -1,7 +1,7 @@
 ---
 title: Edge
 createTime: 2026/01/23 14:27:21
-permalink: /docs/1opup5n3/
+permalink: /docs/csharp/x331qgdr/
 ---
 #### 必备条件
 Microsoft Edge (Chromium 在 windows 10、windows 8.1 或 windows 7 上安装了) 

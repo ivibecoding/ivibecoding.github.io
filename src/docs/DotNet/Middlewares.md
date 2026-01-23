@@ -1,7 +1,7 @@
 ---
 title: 中间件
 createTime: 2026/01/23 11:37:13
-permalink: /docs/qaj0df7m/
+permalink: /docs/dotnet/5tkefdog/
 ---
 
 ### 什么是中间件？
