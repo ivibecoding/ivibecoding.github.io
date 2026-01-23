@@ -15,11 +15,11 @@ config:
         -
           theme: brand
           text: 快速开始
-          link: /blogs/
-        -
-          theme: alt
-          text: 语法示例
-          link: /demos/markdown.md
+          link: /docs/
+        # -
+        #   theme: alt
+        #   text: 语法示例
+        #   link: /demos/
         -
           theme: alt
           text: Github →
@@ -29,45 +29,54 @@ config:
     features:
       -
         title: .NET
-        icon: 💻
-        details: 一个稳定而持续演进的开发世界，这里记录跨平台应用的构建方式，也沉淀工程实践中的选择与经验。
+        icon: 🕸️
+        details: 一个持续生长的世界，稳定、缓慢，却始终向前。
+        link: /docs/DotNet/
       -
-        title: WEB
-        icon: 👨‍💻
-        details: 连接想法与界面的那一层，从基础语言到现代框架，关注实现方式，也在意交互与表达。
+        title: CSharp
+        icon: ✒️
+        details: 思想落地的方式，在类型与结构之间，写下确定性的痕迹。
+        link: /docs/CSharp/
       -
         title: DB
-        icon: 📦
-        details: 数据存在之前，先有结构，关于数据库的使用、设计，以及那些让系统变快、变稳的细节。
+        icon: 🧱
+        details: 数据尚未出现之前，秩序已经存在
+        link: /docs/DB/
       -
-        title: 测试
-        icon: 📝
-        details: 在发布之前，确认一切成立，关注质量、边界与可靠性，让变化变得可控。
+        title: Html
+        icon: 🧩
+        details: 页面的骨架，沉默却必要，一切呈现都从这里开始。
+        link: /docs/Html/
       -
-        title: 架构
-        icon: ⚖ 
-        details: 关于系统如何被组织，模块划分、依赖边界，以及长期演进的选择。
+        title: Css
+        icon: 🎚️
+        details: 关于克制与边界，决定什么该被看见，什么应该退后。
+        link: /docs/Css/
       -
-        title: 设计
-        icon: 📖
-        details: 在动手之前，思考问题、拆解需求、选择方案。
+        title: Ts & Js
+        icon: 🌀
+        details: 不确定性的容器，在变化中保持逻辑的连贯。
+        link: /docs/Ts & Js/
       -
-        title: 性能
-        icon: 🔍
-        details: 当系统开始变慢时，定位、分析与优化那些看不见的瓶颈。
+        title: Vue3
+        icon: 🌱
+        details: 状态流动的地方，组件在这里呼吸、生长。
+        link: /docs/Vue3/
       -
-        title: 工具
-        icon: 🚀
-        details: 提高效率的小而确定的东西，编辑器、命令行、自动化与习惯。
+        title: WPF
+        icon: 🪟
+        details: 桌面之上，结构与交互缓慢成形。
+        link: /docs/Wpf/
       -
-        title: 视野
-        icon: 🌍
-        details: 跳出具体技术本身，经验、选择、取舍与判断。
-  -
-    type: profile
-    name: 灵感编程
-    description: 每一行代码，每一个想法，都是微光划过夜空，用体验讲故事，用细节捕捉那一点正在发生的东西。
-    avatar: /assets/logo.png
+        title: Tools
+        icon: 🧭
+        details: 那些不起眼，却反复被使用的东西。
+        link: /docs/Tools/
+  # -
+  #   type: profile
+  #   name: 灵感编程
+  #   description: 每一行代码，每一个想法，都是微光划过夜空，用体验讲故事，用细节捕捉那一点正在发生的东西。
+  #   avatar: /assets/logo.png
   # -
   #   type: image-text
   #   title: 文档
