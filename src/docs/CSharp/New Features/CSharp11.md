@@ -1,6 +1,7 @@
 ---
 title: CSharp 11.0 新特性
 createTime: 2026/01/23 14:22:25
+permalink: /docs/csharp/a5elbyvr/
 ---
 
 ## UTF-8 字符串字面量

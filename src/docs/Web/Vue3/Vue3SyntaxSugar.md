@@ -1,6 +1,7 @@
 ---
 title: Vue 3 语法糖
 createTime: 2026/01/23 12:38:20
+permalink: /docs/web/qyk973bh/
 ---
 > 在 Vue3.0 中变量必须 return 出来， template 中才能使用；而在 Vue3.2 中只需要在 script 标签上加上 setup 属性，无需 return ， template 便可直接使用，非常的香啊！
 

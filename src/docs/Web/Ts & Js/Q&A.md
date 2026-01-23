@@ -1,6 +1,7 @@
 ---
 title: Q & A
 createTime: 2026/01/23 13:22:16
+permalink: /docs/web/g65tr3i2/
 ---
 
 # 写 TypeScript 时，很多人可能会犯的几个小错误！

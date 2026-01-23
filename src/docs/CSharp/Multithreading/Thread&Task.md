@@ -1,6 +1,7 @@
 ---
 title: Thread & Task
 createTime: 2026/01/23 14:42:29
+permalink: /docs/csharp/4bhhin59/
 ---
 
 ## Thread

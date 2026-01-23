@@ -1,6 +1,7 @@
 ---
 title: VS2019 基于.NET5 单文件打包
 createTime: 2026/01/23 14:24:15
+permalink: /docs/dotnet/mvxt0cya/
 ---
 
 ## .NET5 环境 下载

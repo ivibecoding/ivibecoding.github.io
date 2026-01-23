@@ -1,6 +1,7 @@
 ---
 title: XAML Binding
 createTime: 2026/01/23 11:29:06
+permalink: /docs/wpf/llexmcat/
 ---
 
 ## 数据绑定

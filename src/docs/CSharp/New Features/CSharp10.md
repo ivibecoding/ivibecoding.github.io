@@ -1,6 +1,7 @@
 ---
 title: CSharp 10.0 新特性
 createTime: 2026/01/23 14:22:01
+permalink: /docs/csharp/f9nshbil/
 ---
 
 ## 一、 安装必备

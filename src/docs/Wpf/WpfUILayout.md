@@ -1,6 +1,7 @@
 ---
 title: Wpf UI Layout
 createTime: 2026/01/23 11:24:43
+permalink: /docs/wpf/i5tf8pil/
 ---
 ## 简介
 

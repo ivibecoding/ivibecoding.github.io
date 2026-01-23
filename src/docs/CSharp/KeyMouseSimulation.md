@@ -1,6 +1,7 @@
 ---
 title: 代码模拟鼠标、键盘进行操作
 createTime: 2026/01/23 14:25:29
+permalink: /docs/csharp/0c9mm1p5/
 ---
 
 https://github.com/taojy123/KeymouseGo

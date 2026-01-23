@@ -1,6 +1,7 @@
 ---
 title: 代码可读性
 createTime: 2026/01/23 14:12:34
+permalink: /docs/csharp/3ezcecgr/
 ---
 
 > <strong style="color:green;">Key Idea</strong>

@@ -1,6 +1,7 @@
 ---
 title: Class
 createTime: 2026/01/23 13:36:00
+permalink: /docs/web/jdq6n1q9/
 ---
 
 #### 关于javascript中class

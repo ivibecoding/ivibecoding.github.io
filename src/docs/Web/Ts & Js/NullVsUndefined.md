@@ -1,6 +1,7 @@
 ---
 title: Null vs Undefined
 createTime: 2026/01/23 13:28:47
+permalink: /docs/web/5wcbhp6b/
 ---
 
 ## 定义

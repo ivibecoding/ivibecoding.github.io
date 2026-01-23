@@ -1,6 +1,7 @@
 ---
 title: Translate vs Position
 createTime: 2026/01/23 11:35:32
+permalink: /docs/web/k2xsfq0n/
 ---
 
 ## Translate & Relative Position

@@ -1,6 +1,7 @@
 ---
-title: 0.1+0.2≠0.3 
+title: 0.1+0.2≠0.3
 createTime: 2026/01/23 13:33:00
+permalink: /docs/web/veucmxo4/
 ---
 
 #### 关于0.1+0.2 不等于0.3 

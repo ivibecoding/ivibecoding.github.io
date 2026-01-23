@@ -1,6 +1,7 @@
 ---
 title: vue3基础语法使用
 createTime: 2026/01/23 12:35:12
+permalink: /docs/web/51hafnt3/
 ---
 
 ### vue.js 是什么

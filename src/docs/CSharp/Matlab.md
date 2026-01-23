@@ -1,6 +1,7 @@
 ---
 title: C#调用 Matlab 函数
 createTime: 2026/01/23 13:47:07
+permalink: /docs/csharp/sunv1jae/
 ---
 
 ## 环境

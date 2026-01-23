@@ -1,6 +1,7 @@
 ---
 title: Log4Net
 createTime: 2026/01/23 11:34:29
+permalink: /docs/csharp/221nz2e0/
 ---
 
 将软件运行时的关键信息（重要步骤，错误异常）记录下来，便于开发人员快速定位问题位置

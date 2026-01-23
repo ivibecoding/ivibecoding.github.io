@@ -1,6 +1,7 @@
 ---
 title: 网站变灰 Filter
 createTime: 2026/01/23 13:15:05
+permalink: /docs/web/8a7l97ng/
 ---
 
 ## 这几天网站都变灰了，一行代码教你实现！

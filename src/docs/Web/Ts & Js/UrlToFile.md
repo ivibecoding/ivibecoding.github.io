@@ -1,5 +1,7 @@
 ---
 title: Url转File
+createTime: 2026/01/23 13:21:01
+permalink: /docs/web/6pzad7zz/
 ---
 
 上传测试视频和音频得时候已经统一将类型进行更改 类型正确 上传流仍403

@@ -1,6 +1,7 @@
 ---
 title: uniapp
 createTime: 2026/01/23 11:52:16
+permalink: /docs/web/6xzfhyzw/
 ---
 
 ## uniapp 调用摄像头拍照/上传图片

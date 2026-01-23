@@ -1,6 +1,7 @@
 ---
 title: 常用的高级类型
 createTime: 2026/01/23 12:35:12
+permalink: /docs/web/6tszm0iu/
 ---
 
 ## `Partial<Type>`

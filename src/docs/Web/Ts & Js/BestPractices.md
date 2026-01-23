@@ -1,6 +1,7 @@
 ---
 title: 最佳实践
 createTime: 2026/01/23 13:38:28
+permalink: /docs/web/l8vjaxk5/
 ---
 
 # 10 个 Javascript 技巧和最佳实践

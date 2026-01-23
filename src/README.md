@@ -31,47 +31,32 @@ config:
         title: .NET
         icon: 🕸️
         details: 一个持续生长的世界，稳定、缓慢，却始终向前。
-        link: /docs/DotNet/
+        link: /docs/dotnet/
       -
         title: CSharp
         icon: ✒️
         details: 思想落地的方式，在类型与结构之间，写下确定性的痕迹。
-        link: /docs/CSharp/
+        link: /docs/csharp/
       -
         title: DB
         icon: 🧱
         details: 数据尚未出现之前，秩序已经存在
-        link: /docs/DB/
+        link: /docs/database/
       -
-        title: Html
+        title: Web
         icon: 🧩
-        details: 页面的骨架，沉默却必要，一切呈现都从这里开始。
-        link: /docs/Html/
-      -
-        title: Css
-        icon: 🎚️
-        details: 关于克制与边界，决定什么该被看见，什么应该退后。
-        link: /docs/Css/
-      -
-        title: Ts & Js
-        icon: 🌀
-        details: 不确定性的容器，在变化中保持逻辑的连贯。
-        link: /docs/Ts & Js/
-      -
-        title: Vue3
-        icon: 🌱
-        details: 状态流动的地方，组件在这里呼吸、生长。
-        link: /docs/Vue3/
+        details: 承载内容与结构的地方，每一次展现都从这里生根。
+        link: /docs/web/
       -
         title: WPF
         icon: 🪟
         details: 桌面之上，结构与交互缓慢成形。
-        link: /docs/Wpf/
+        link: /docs/wpf/
       -
         title: Tools
         icon: 🧭
         details: 那些不起眼，却反复被使用的东西。
-        link: /docs/Tools/
+        link: /docs/tools/
   # -
   #   type: profile
   #   name: 灵感编程

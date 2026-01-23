@@ -1,6 +1,7 @@
 ---
 title: 深入事件循环
 createTime: 2026/01/23 13:27:04
+permalink: /docs/web/0zcntu7c/
 ---
 
 ```

@@ -1,6 +1,7 @@
 ---
 title: MySQL 优化
 createTime: 2026/01/23 11:47:57
+permalink: /docs/database/hl6vq0lv/
 ---
 
 ## 配置

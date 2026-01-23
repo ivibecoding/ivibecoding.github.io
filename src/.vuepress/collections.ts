@@ -63,48 +63,48 @@ const blog = defineCollection({
 
 const webDoc = defineCollection({
   type: 'doc',
-  dir: 'Web',
-  linkPrefix: '/Web/',
+  dir: '/docs/web',
+  linkPrefix: '/docs/web/',
   title: 'Web 技术',
   sidebar: 'auto',
 })
 
 const dbDoc = defineCollection({
   type: 'doc',
-  dir: 'DB',
-  linkPrefix: '/DB/',
+  dir: '/docs/database',
+  linkPrefix: '/docs/database/',
   title: '数据库',
   sidebar: 'auto',
 })
 
 const toolsDoc = defineCollection({
   type: 'doc',
-  dir: 'Tools',
-  linkPrefix: '/Tools/',
+  dir: '/docs/tools/',
+  linkPrefix: '/docs/tools/',
   title: '工具',
   sidebar: 'auto',
 })
 
 const wpfDoc = defineCollection({
   type: 'doc',
-  dir: 'Wpf',
-  linkPrefix: '/Wpf/',
+  dir: '/docs/wpf',
+  linkPrefix: '/docs/wpf/',
   title: 'Wpf',
   sidebar: 'auto',
 })
 
 const dotnetDoc = defineCollection({
   type: 'doc',
-  dir: 'DotNet',
-  linkPrefix: '/DotNet/',
+  dir: '/docs/dotnet',
+  linkPrefix: '/docs/dotnet/',
   title: '.NET',
   sidebar: 'auto',
 })
 
 const csharpDoc = defineCollection({
   type: 'doc',
-  dir: 'CSharp',
-  linkPrefix: '/CSharp/',
+  dir: '/docs/csharp',
+  linkPrefix: '/docs/csharp/',
   title: 'CSharp',
   sidebar: 'auto',
 })

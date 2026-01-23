@@ -1,6 +1,7 @@
 ---
 title: js 与 ts 中各种循环遍历方式
 createTime: 2026/01/23 13:24:47
+permalink: /docs/web/ltpyffjy/
 ---
 
 ### 1. for…in 、for…of

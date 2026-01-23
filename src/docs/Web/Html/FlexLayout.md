@@ -1,6 +1,7 @@
 ---
 title: Flex 下的基本对齐
 createTime: 2026/01/23 11:49:22
+permalink: /docs/web/6k745m64/
 ---
 
 ```ts

@@ -1,6 +1,7 @@
 ---
 title: 视频压缩
 createTime: 2026/01/23 11:41:09
+permalink: /docs/csharp/2o26wmf0/
 ---
 
 ## 压缩脚本对比
