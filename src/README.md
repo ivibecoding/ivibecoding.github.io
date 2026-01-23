@@ -18,6 +18,10 @@ config:
           link: /blogs/
         -
           theme: alt
+          text: 语法示例
+          link: /demos/markdown.md
+        -
+          theme: alt
           text: Github →
           link: https://github.com/ivibecoding/ivibecoding.github.io
   -    

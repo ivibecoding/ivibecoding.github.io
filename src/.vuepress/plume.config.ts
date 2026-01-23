@@ -10,20 +10,23 @@
  * 特别的，请不要在两个配置文件中重复配置相同的项，当前文件的配置项会覆盖 `.vuepress/config.ts` 文件中的配置
  */
 
-import { defineThemeConfig } from 'vuepress-theme-plume'
-import navbar from './navbar'
-import collections from './collections'
+import { defineThemeConfig } from "vuepress-theme-plume";
+import navbar from "./navbar";
+import collections from "./collections";
 
 /**
  * @see https://theme-plume.vuejs.press/config/theme/
  */
 export default defineThemeConfig({
-  logo: 'https://theme-plume.vuejs.press/plume.png',
+  logo: "https://foruda.gitee.com/avatar/1769134388021798884/11793751_ivibecoding_1769134387.png",
 
-  appearance: true,  // 配置 深色模式
+  appearance: true, // 配置 深色模式
 
   social: [
-    { icon: 'github', link: 'https://github.com/ivibecoding/ivibecoding.github.io'}
+    {
+      icon: "github",
+      link: "https://github.com/ivibecoding/ivibecoding.github.io",
+    },
   ],
   // navbarSocialInclude: ['github'], // 允许显示在导航栏的 social 社交链接
   // aside: true, // 页内侧边栏， 默认显示在右侧
@@ -49,9 +52,10 @@ export default defineThemeConfig({
    * @see https://theme-plume.vuejs.press/config/theme/#profile
    */
   profile: {
-    avatar: 'https://foruda.gitee.com/avatar/1670406522604092832/11793751_icodecake_1670406522.png',
-    name: 'Z小染',
-    description: '捕捉每一个微光',
+    avatar:
+      "https://foruda.gitee.com/avatar/1769134388021798884/11793751_ivibecoding_1769134387.png",
+    name: "Vibe Coding",
+    description: "捕捉每一个微光",
     // circle: true,
     // location: '',
     // organization: '',
@@ -77,5 +81,4 @@ export default defineThemeConfig({
   //   postList: true,    // 启用 博客文章列表过渡动画
   //   appearance: 'fade',  // 启用 深色模式切换过渡动画, 或配置过渡动画类型
   // },
-
-})
+});

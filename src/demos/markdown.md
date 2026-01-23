@@ -82,7 +82,7 @@ H~2~O
 
 [外部链接](https://github.com/ivibeCoding/ivibeCoding.github.io)
 
-![plume](/plume.svg)
+![logo](/logo.svg)
 
 **Badge：**
 

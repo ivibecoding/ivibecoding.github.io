@@ -26,7 +26,7 @@ export default defineUserConfig({
       {
         rel: "icon",
         type: "image/png",
-        href: "/src/assets/logo.png",        
+        href: "https://foruda.gitee.com/avatar/1769134388021798884/11793751_ivibecoding_1769134387.png",        
       },
     ],
   ],
