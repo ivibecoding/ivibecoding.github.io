@@ -1,7 +1,6 @@
 ---
 title: 语音识别
 createTime: 2026/01/23 14:39:31
-permalink: /docs/patz0o6z/
 ---
 
 ## Microsoft.Speech

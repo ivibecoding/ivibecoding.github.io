@@ -1,7 +1,6 @@
 ---
 title: CSharp 7.0 新特性
 createTime: 2026/01/23 14:16:13
-permalink: /docs/r7tno229/
 ---
 
 ## 新特性

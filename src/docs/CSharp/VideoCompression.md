@@ -1,7 +1,6 @@
 ---
 title: 视频压缩
 createTime: 2026/01/23 11:41:09
-permalink: /docs/0etuv9j4/
 ---
 
 ## 压缩脚本对比

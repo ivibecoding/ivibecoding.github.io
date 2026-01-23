@@ -1,7 +1,6 @@
 ---
 title: 代码自审和团队审核Checklist
 createTime: 2026/01/23 14:12:34
-permalink: /docs/k5jnpnyp/
 ---
 
 ## Style Check | 风格的一致性

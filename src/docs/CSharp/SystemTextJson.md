@@ -1,7 +1,6 @@
 ---
 title: System.Text.Json
 createTime: 2026/01/23 11:44:27
-permalink: /docs/gaydpjb8/
 ---
 
 ## Example

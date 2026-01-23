@@ -1,7 +1,6 @@
 ---
 title: Parallel
 createTime: 2026/01/23 14:45:10
-permalink: /docs/wv6ldnjq/
 ---
 
 以**异步方式遍历**内部语句块，Parallel 调用之间为同步关系，**使用 Parallel 循环时方法并行但顺序不固定**。

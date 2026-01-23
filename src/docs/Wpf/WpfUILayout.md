@@ -1,7 +1,6 @@
 ---
 title: Wpf UI Layout
 createTime: 2026/01/23 11:24:43
-permalink: /docs/1e4voekf/
 ---
 ## 简介
 

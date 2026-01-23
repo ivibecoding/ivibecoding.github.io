@@ -1,7 +1,6 @@
 ---
 title: SpanView<T>和ArrayView<T>使用指南
 createTime: 2026/01/23 14:37:23
-permalink: /docs/wdcg4rjz/
 ---
 
 ## Introduction 简介

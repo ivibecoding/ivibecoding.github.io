@@ -1,7 +1,6 @@
 ---
 title: HttpContext.Items vs HttpContext.Features
 createTime: 2026/01/23 11:33:16
-permalink: /docs/diswd5yg/
 ---
 
 ## HttpContext.Items

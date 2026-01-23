@@ -1,7 +1,6 @@
 ---
 title: Wpf Image Render
 createTime: 2026/01/23 11:40:32
-permalink: /docs/bj43yygk/
 ---
 
 ```xml

@@ -1,7 +1,6 @@
 ---
 title: C# 编码风格
 createTime: 2026/01/23 14:12:34
-permalink: /docs/wf54i34n/
 ---
 
 ### 一、命名

@@ -63,7 +63,6 @@ export default defineThemeConfig({
 
   navbar,
   collections,
-
   /**
    * 公告板
    * @see https://theme-plume.vuejs.press/guide/features/bulletin/

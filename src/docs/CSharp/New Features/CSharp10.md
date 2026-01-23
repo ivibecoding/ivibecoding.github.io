@@ -1,7 +1,6 @@
 ---
 title: CSharp 10.0 新特性
 createTime: 2026/01/23 14:22:01
-permalink: /docs/95x85pwm/
 ---
 
 ## 一、 安装必备

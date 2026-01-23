@@ -1,7 +1,6 @@
 ---
 title: 原生类型和操作性能对比
 createTime: 2026/01/23 14:32:51
-permalink: /docs/8qk07vob/
 ---
 
 ## array vs list

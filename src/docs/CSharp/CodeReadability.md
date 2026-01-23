@@ -1,7 +1,6 @@
 ---
 title: 代码可读性
 createTime: 2026/01/23 14:12:34
-permalink: /docs/df74qsm9/
 ---
 
 > <strong style="color:green;">Key Idea</strong>

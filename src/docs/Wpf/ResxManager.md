@@ -1,7 +1,6 @@
 ---
 title: WPF 本地化
 createTime: 2026/01/23 14:38:14
-permalink: /docs/dbdywfnb/
 ---
 # WPF 本地化
 

@@ -1,7 +1,6 @@
 ---
 title: Command Line
 createTime: 2026/01/23 11:31:44
-permalink: /docs/fhekccme/
 ---
 
 ## CommandLineUtils

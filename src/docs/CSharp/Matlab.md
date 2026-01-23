@@ -1,7 +1,6 @@
 ---
 title: C#调用 Matlab 函数
 createTime: 2026/01/23 13:47:07
-permalink: /docs/p5oc2i65/
 ---
 
 ## 环境

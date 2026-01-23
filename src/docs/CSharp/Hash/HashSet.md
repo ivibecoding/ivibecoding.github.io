@@ -1,7 +1,6 @@
 ---
 title: HashSet
 createTime: 2026/01/23 14:35:11
-permalink: /docs/f01c60v3/
 ---
 ### 从 HashSet 中查找一个元素
 

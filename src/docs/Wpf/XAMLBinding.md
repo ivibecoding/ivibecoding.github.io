@@ -1,7 +1,6 @@
 ---
 title: XAML Binding
 createTime: 2026/01/23 11:29:06
-permalink: /docs/6rflfrf4/
 ---
 
 ## 数据绑定

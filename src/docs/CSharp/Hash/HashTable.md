@@ -1,7 +1,6 @@
 ---
 title: HashTable
 createTime: 2026/01/23 14:33:59
-permalink: /docs/ydsfsbgr/
 ---
 - 在哈希表中添加一个keyvalue键值对：HashtableObject.Add(key,value);
 - 在哈希表中去除某个keyvalue键值对：HashtableObject.Remove(key);

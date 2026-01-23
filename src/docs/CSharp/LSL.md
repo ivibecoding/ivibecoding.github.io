@@ -1,7 +1,6 @@
 ---
 title: matlab 和 python 接收 LSL 数据
 createTime: 2026/01/23 13:50:32
-permalink: /docs/i5wu7k00/
 ---
 
 ## LSL

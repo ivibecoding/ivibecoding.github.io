@@ -1,7 +1,6 @@
 ---
 title: Async & Await
 createTime: 2026/01/23 14:43:36
-permalink: /docs/xuunt3ya/
 ---
 
 ## 前言

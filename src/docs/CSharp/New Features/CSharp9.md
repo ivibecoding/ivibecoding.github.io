@@ -1,7 +1,6 @@
 ---
 title: CSharp 9.0 新特性
 createTime: 2026/01/23 14:21:35
-permalink: /docs/u60rp971/
 ---
 
 ## 一、 安装必备

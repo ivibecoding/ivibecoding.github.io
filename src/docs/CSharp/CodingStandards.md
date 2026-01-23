@@ -1,7 +1,6 @@
 ---
 title: 项目中使用的代码规范
 createTime: 2026/01/23 14:12:51
-permalink: /docs/kguwzw4s/
 ---
 
 代码可以根据是否是Hot Path分为两类：
